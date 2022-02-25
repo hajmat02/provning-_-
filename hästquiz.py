@@ -66,3 +66,6 @@ while slut != "2":
     slut = input('''
     Vill du spela igen tyck [1]
     Om inte tryck [2]''')
+
+    if slut != 2:
+        svar = 0
